@@ -8,8 +8,6 @@ autodetach            on
 #deflogin              off
 hardcopy_append       on
 
-chdir /home/deyk
-
 startup_message       off
 vbell                 off
 
